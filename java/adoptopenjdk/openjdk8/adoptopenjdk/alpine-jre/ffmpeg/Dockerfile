@@ -1,7 +1,7 @@
 # ffmpeg - http://ffmpeg.org/download.html
 #
 # https://hub.docker.com/r/jrottenberg/ffmpeg/
-#
+# https://github.com/jrottenberg/ffmpeg/blob/master/docker-images/3.4/alpine311/Dockerfile
 #
 
 FROM        adoptopenjdk/openjdk8:alpine-jre AS base
